@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.0.0/BigCoinPOS-1.0.0.zip",
-  "sha256": "",
-  "notes": "Initial release."
+  "version": "1.1.0",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.0/BigCoinPOS-1.1.0.zip",
+  "sha256": "fc6701341ad79e47afceee5e0db22856d57db185a08a837998cae4d4748781ac",
+  "notes": "Test update"
 }
