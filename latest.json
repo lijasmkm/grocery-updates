@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.2/BigCoinPOS-1.1.2.zip",
-  "sha256": "c269016594fb5c1fa3d34a53b2c734d7d4e5f730b0ad33ec1cd44a996ca071eb",
-  "notes": "Universal printer support, offline mode, split payment, credit filters, diagnostics."
+  "version": "1.1.3",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.3/BigCoinPOS-1.1.3.zip",
+  "sha256": "6718142ea38bc1c305d0bb3f276d53485a9fb0255beac8e568602e94489c6927",
+  "notes": "Faster quantity entry, redesigned tiles with barcodes, smarter search, live stock refresh."
 }
