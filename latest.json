@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.5/BigCoinPOS-1.1.5.zip",
-  "sha256": "a47d660099d5fd95b6e17d3add422817e31c5ac062d52e5d63c00cdda071c971",
-  "notes": "Accurate profit tracking: weighted-average cost across old and new stock, with profit shown per bill in the Sales Report (including how much is still tied up in unpaid credit). Credit bills now print like cash receipts (the drawer stays shut), and the printed report is a clean landscape layout."
+  "version": "1.1.6",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.6/BigCoinPOS-1.1.6.zip",
+  "sha256": "98aa9556d0e5cc63cbd16580e79618db2c968c4daa51519c2afbd1196f0381c0",
+  "notes": "Accurate profit tracking: weighted-average cost across old and new stock, with profit shown per bill in the Sales Report (including how much is tied up in unpaid credit). Credit bills print like cash receipts (drawer stays shut) with a clean landscape report. Fixes a blank thermal receipt on some installed setups."
 }
