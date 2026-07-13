@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.6/BigCoinPOS-1.1.6.zip",
-  "sha256": "98aa9556d0e5cc63cbd16580e79618db2c968c4daa51519c2afbd1196f0381c0",
-  "notes": "Accurate profit tracking: weighted-average cost across old and new stock, with profit shown per bill in the Sales Report (including how much is tied up in unpaid credit). Credit bills print like cash receipts (drawer stays shut) with a clean landscape report. Fixes a blank thermal receipt on some installed setups."
+  "version": "1.1.8",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.8/BigCoinPOS-1.1.8.zip",
+  "sha256": "51d7cf215bce848c003fcdf0140071925fba7d5a89492d25a41548c99fe8e78d",
+  "notes": "the built version now reliably initializes the ESC/POS printer on any machine."
 }
