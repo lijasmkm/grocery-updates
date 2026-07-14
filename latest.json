@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.8/BigCoinPOS-1.1.8.zip",
-  "sha256": "51d7cf215bce848c003fcdf0140071925fba7d5a89492d25a41548c99fe8e78d",
-  "notes": "the built version now reliably initializes the ESC/POS printer on any machine."
+  "version": "1.1.9",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.9/BigCoinPOS-1.1.9.zip",
+  "sha256": "0c319a674ec8bf668a8d82a16012ba6d6fd2e37e40c44acd9e12451470a46d37",
+  "notes": "Separate Item name and Barcode search boxes on the Sales screen, each ranking exact and starts-with matches first."
 }
