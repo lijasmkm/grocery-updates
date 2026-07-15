@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
   "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.2.0/BigCoinPOS-1.2.0.zip",
-  "sha256": "5bbdb48bbd53328bdb895d0c2bcf8ceffb61059e869874dae2a2545855365262",
-  "notes": "VAT overhaul on Sales: item prices show net of VAT with VAT totalled separately; double-tap a bill line to edit price/VAT (optionally save to the item). New Settings > Sales tab: allow selling out-of-stock items and set a default VAT %. Item Master profit now calculated after VAT."
+  "sha256": "ad7a67e84dc89581b0ba4d61e987625e06af4597d0f5dce761d30189fccf2806",
+  "notes": "Sales grid tiles show the VAT-inclusive shelf price (badge reads '5%'); bill lines still show the net price with VAT totalled separately. Double-tap a bill line to edit price/VAT (optionally save to the item). New Settings > Sales tab: allow selling out-of-stock items and set a default VAT %. Item Master profit now calculated after VAT."
 }
