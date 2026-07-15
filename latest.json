@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.2.0/BigCoinPOS-1.2.0.zip",
-  "sha256": "ad7a67e84dc89581b0ba4d61e987625e06af4597d0f5dce761d30189fccf2806",
-  "notes": "Sales grid tiles show the VAT-inclusive shelf price (badge reads '5%'); bill lines still show the net price with VAT totalled separately. Double-tap a bill line to edit price/VAT (optionally save to the item). New Settings > Sales tab: allow selling out-of-stock items and set a default VAT %. Item Master profit now calculated after VAT."
+  "version": "1.2.1",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.2.1/BigCoinPOS-1.2.1.zip",
+  "sha256": "bf869148601cb4a89491bad63ee30825f734b869e04c4015885800126bd9736e",
+  "notes": "Barcode box: type a barcode and press Enter to add the item to the bill (now works for short barcodes like '1', and for out-of-stock items when 'Allow selling out-of-stock' is on). Sales grid tiles show the VAT-inclusive shelf price (badge reads '5%'); bill lines still show the net price with VAT totalled separately. Double-tap a bill line to edit price/VAT (optionally save to the item). New Settings > Sales tab: allow selling out-of-stock items and set a default VAT %. Item Master profit now calculated after VAT."
 }
