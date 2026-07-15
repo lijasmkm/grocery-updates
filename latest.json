@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.1.9/BigCoinPOS-1.1.9.zip",
-  "sha256": "0c319a674ec8bf668a8d82a16012ba6d6fd2e37e40c44acd9e12451470a46d37",
-  "notes": "Separate Item name and Barcode search boxes on the Sales screen, each ranking exact and starts-with matches first."
+  "version": "1.2.0",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.2.0/BigCoinPOS-1.2.0.zip",
+  "sha256": "5bbdb48bbd53328bdb895d0c2bcf8ceffb61059e869874dae2a2545855365262",
+  "notes": "VAT overhaul on Sales: item prices show net of VAT with VAT totalled separately; double-tap a bill line to edit price/VAT (optionally save to the item). New Settings > Sales tab: allow selling out-of-stock items and set a default VAT %. Item Master profit now calculated after VAT."
 }
