@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.2.1/BigCoinPOS-1.2.1.zip",
-  "sha256": "bf869148601cb4a89491bad63ee30825f734b869e04c4015885800126bd9736e",
-  "notes": "Barcode box: type a barcode and press Enter to add the item to the bill (now works for short barcodes like '1', and for out-of-stock items when 'Allow selling out-of-stock' is on). Sales grid tiles show the VAT-inclusive shelf price (badge reads '5%'); bill lines still show the net price with VAT totalled separately. Double-tap a bill line to edit price/VAT (optionally save to the item). New Settings > Sales tab: allow selling out-of-stock items and set a default VAT %. Item Master profit now calculated after VAT."
+  "version": "1.2.2",
+  "url": "https://github.com/lijasmkm/grocery-updates/releases/download/v1.3.0/BigCoinPOS-1.3.0.zip",
+  "sha256": "63640a2466aa64b48f1aa9714c806c906767eff8d1b4dd9a79543b4fc462d1a2",
+  "notes": "New itemised VAT bill layout: each line now shows No, Item, Qty, Price, VAT amount, VAT %, and line Total, with Total / VAT / Gross Total right-aligned and decimals lined up (works on both plain and Arabic/bilingual printers). Credit bills now print the customer's account: Previous Balance, This Bill, and Total Outstanding, so the pending amount is on the printed receipt. Extra spacing above the thank-you line. Plus an optional hands-free Voice Cart Entry add-on for source installs."
 }
